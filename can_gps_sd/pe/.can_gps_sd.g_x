@@ -1,0 +1,102 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="6">
+        <Line>"${ProjDirPath}/Static_Code\System"</Line>
+        <Line>"${ProjDirPath}/Static_Code\PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code\IO_Map"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796933" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-09-01, 21:10:18" FileAge="1472782218196" FileType="45637" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217631" FileType="1048576" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217957" FileType="1048576" />
+      <File Name="ProjectInfo.xml" FileDate="2016-09-01, 21:19:57" FileAge="1472782797522" FileType="45637" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796922" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/CRC_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217557" FileType="1048576" />
+      <File Name="Generated_Code/Init_Config.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796990" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-09-01, 21:10:18" FileAge="1472782218153" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/WDOG_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217995" FileType="1048576" />
+      <File Name="Generated_Code/integer.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796530" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796911" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/SM1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796849" FileType="45637" CompNumb="6" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217615" FileType="1048576" />
+      <File Name="Documentation/doxygen/SS1.txt" FileDate="2016-09-01, 21:19:56" FileAge="1472782796690" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/SM1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796837" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796777" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796767" FileType="45637" CompNumb="13" />
+      <File Name="Documentation/doxygen/SM1.txt" FileDate="2016-09-01, 21:19:56" FileAge="1472782796827" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/TMOUT1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796734" FileType="45637" CompNumb="14" />
+      <File Name="Static_Code/PDD/RTC0_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217856" FileType="1048576" />
+      <File Name="Static_Code/System/Peripherals_Init.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217428" FileType="1048576" />
+      <File Name="Generated_Code/TMOUT1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796723" FileType="45637" CompNumb="14" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2016-09-01, 21:10:18" FileAge="1472782218104" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/00readme.txt" FileDate="2016-09-01, 21:19:56" FileAge="1472782796585" FileType="45637" CompNumb="7" />
+      <File Name="Static_Code/PDD/KBI_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217662" FileType="1048576" />
+      <File Name="Static_Code/System/Peripherals_Init.c" FileDate="2016-09-01, 21:10:17" FileAge="1472782217411" FileType="1048576" />
+      <File Name="Generated_Code/FAT1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796607" FileType="45637" CompNumb="7" />
+      <File Name="Documentation/can_gps_sd.txt" FileDate="2016-09-01, 21:19:57" FileAge="1472782797549" FileType="3072" />
+      <File Name="Generated_Code/SS1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796712" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/Vectors_Config.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796944" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/CS1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796756" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/FAT1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796596" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/SS1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796701" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/doxygen/can_gps_sd.txt" FileDate="2016-09-01, 21:19:57" FileAge="1472782797001" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/CS1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796744" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/UTIL1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796630" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217527" FileType="1048576" />
+      <File Name="Static_Code/System/CPU_Init.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217387" FileType="1048576" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-09-01, 21:10:18" FileAge="1472782218173" FileType="45637" />
+      <File Name="Generated_Code/UTIL1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796619" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/IRQ_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217645" FileType="1048576" />
+      <File Name="Static_Code/PDD/PWT_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217847" FileType="1048576" />
+      <File Name="Static_Code/System/CPU_Init.c" FileDate="2016-09-01, 21:10:17" FileAge="1472782217376" FileType="1048576" />
+      <File Name="Generated_Code/CPU_Config.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796979" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ff.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796552" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/ff.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796564" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796871" FileType="45637" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2016-09-01, 21:10:13" FileAge="1472782213216" FileType="16384" CompNumb="2" />
+      <File Name="Generated_Code/ffconf.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796574" FileType="45637" CompNumb="7" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2016-09-01, 21:10:18" FileAge="1472782218033" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/can_gps_sd_Settings.xml" FileDate="2016-09-01, 21:19:57" FileAge="1472782797161" FileType="3072" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217930" FileType="1048576" />
+      <File Name="Static_Code/IO_Map/SKEAZ1284.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217466" FileType="1048576" />
+      <File Name="Generated_Code/TmDt1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796662" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217889" FileType="1048576" />
+      <File Name="Static_Code/PDD/FTMRE_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217579" FileType="1048576" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217504" FileType="1048576" />
+      <File Name="Generated_Code/TmDt1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796640" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/FTM_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217588" FileType="1048576" />
+      <File Name="Static_Code/PDD/MSCAN_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217693" FileType="1048576" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-09-01, 21:10:18" FileAge="1472782218184" FileType="45637" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217823" FileType="1048576" />
+      <File Name="Sources/main.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796882" FileType="128" />
+      <File Name="Static_Code/System/PDD_Includes.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217398" FileType="1048576" />
+      <File Name="Project_Settings/Debugger/SKEAZ128.mem" FileDate="2016-09-01, 21:10:18" FileAge="1472782218133" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.h" FileDate="2016-09-01, 21:19:57" FileAge="1472782797036" FileType="131328" />
+      <File Name="Static_Code/PDD/NVIC_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217716" FileType="1048576" />
+      <File Name="Sources/Events.c" FileDate="2016-09-01, 21:19:57" FileAge="1472782797047" FileType="131328" />
+      <File Name="Static_Code/PDD/SCB_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217869" FileType="1048576" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217968" FileType="1048576" />
+      <File Name="Generated_Code/diskio.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796541" FileType="45637" CompNumb="7" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217491" FileType="1048576" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2016-09-01, 21:19:57" FileAge="1472782797025" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/PMC_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217814" FileType="1048576" />
+      <File Name="Static_Code/System/Vectors.c" FileDate="2016-09-01, 21:10:17" FileAge="1472782217436" FileType="1048576" />
+      <File Name="Generated_Code/KSDK1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796820" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/KSDK1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796788" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/SD1.h" FileDate="2016-09-01, 21:19:56" FileAge="1472782796679" FileType="45637" CompNumb="8" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217801" FileType="1048576" />
+      <File Name="Generated_Code/SD1.c" FileDate="2016-09-01, 21:19:56" FileAge="1472782796668" FileType="45637" CompNumb="8" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2016-09-01, 21:10:17" FileAge="1472782217680" FileType="1048576" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>6</CodeGenReference>
+</CodeGenerationInfo>
